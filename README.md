@@ -16,19 +16,20 @@ This project implements a Merkle Hash Tree using SHA1 to verify the integrity of
 ## Demonstration
 
 ### Before Modifying a File
-![Before](Screenshot 2026-04-17 154659.png)
+![Before](Screenshot%202026-04-17%20154659.png)
 
 Top Hash: 71ec5a6e762837ec4516c435e1a3f0741ca232c2
 
 ### After Modifying a File (L3.txt)
-![After](Screenshot 2026-04-17 154738.png)
+![After](Screenshot%202026-04-17%20154738.png)
 
 Top Hash: d18321f719ca020acfce3ed0a4af9004e3552056
 
 ## Example with 100 Files
 
-![100 Files Run 1](Screenshot 2026-04-17 160503.png)
-![100 Files Run 2](Screenshot 2026-04-17 160521.png)
+![100 Files Run 1](Screenshot%202026-04-17%20160503.png)
+
+![100 Files Run 2](Screenshot%202026-04-17%20160521.png)
 
 Top Hash: 12408b2ae4312fb204bf81ebd98aac1abc0b1758
 
