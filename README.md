@@ -4,7 +4,7 @@ This is my GitHub for HashChain Assignment for CIS455 Applied Cryptography
 
 ## Merkle Hash Tree for File Integrity
 
-This project implements a Merkle Hash Tree using SHA1 to verify the integrity of files. The program takes multiple files as input, computes the hash for each file, and combines them in a tree structure to produce a single Top Hash.
+This merkle_tree.py file implements a Merkle Hash Tree using SHA1 to verify the integrity of files. The program takes multiple files as input, computes the hash for each file, and combines them in a tree structure to produce a single Top Hash.
 
 ## How It Works
 
@@ -43,3 +43,7 @@ After modifying one file (L3.txt), the Top Hash changed. This shows that the Mer
 2. Run:
 
 python3 merkle_tree.py sha1 L1.txt L2.txt L3.txt L4.txt
+
+## Disclaimer
+
+The source code used for this assignment was created with the help of OpenAI ChatGPT and the Merkle Tree structure. 
